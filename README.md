@@ -1,4 +1,2 @@
-# Query_WTO_API
-Query of data using the WTO API.
-Allows to send multiple requests simulateanously.
-Return Pandas dataframe for valid requests.
+# When are Tariff Cuts Not Enough? Heterogeneous Effects of Trade Preferences for the Least Developed Countries
+Project with [Jason Garred](http://web5.uottawa.ca/www5/jasongarred/index.html) and Kyae Lim Kwon
